@@ -6,13 +6,13 @@
     version     = "1.0.0" >
 
 
-  <name>MUI Test</name>
+  <name>WeFunk</name>
 
   <description>
-      UI framework test for university project.
+      University project, experimenting in sound and vision!
   </description>
 
 <platform name="android" />
-<plugin name="cordova-plugin-nativeaudio" spec="3.0.9" />
+
 
 </widget>
