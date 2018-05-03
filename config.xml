@@ -12,7 +12,8 @@
       University project, experimenting in sound and vision!
   </description>
 
-<platform name="android" />
-<icon src="Images/WeFunk-52px.png" platform="ios" width="52" height="52" density="mdpi" />
+<platform name="android">
+  <icon src="icon.png"  width="52" height="52" />
+</platform>
 
 </widget>
