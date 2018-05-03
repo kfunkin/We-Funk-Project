@@ -13,6 +13,6 @@
   </description>
 
 <platform name="android" />
-
+<icon src="Images/WeFunk-52px.png" platform="ios" width="52" height="52" density="mdpi" />
 
 </widget>
